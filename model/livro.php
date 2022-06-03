@@ -12,7 +12,7 @@
         public function setNome($nome){ //setar um valor para o atributo
             $this->nome = $nome;
         }
-        public function getNome(){ //retornar o valor do atributo
+        public function getNome(){ //retornar o valor do atributo da classe
             return $this->nome;
         }
 
